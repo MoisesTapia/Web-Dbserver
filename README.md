@@ -10,7 +10,7 @@
 
 ## Graph model
 
-![Map](https://github.com/MoisesTapia/Infra-Basic/blob/master/images/Untitled%20Diagram(1).png)
+![Map](https://github.com/MoisesTapia/Web-Dbserver/blob/developer/images/DiagramWebServer.png)
 
 
 ## Graph
