@@ -17,12 +17,6 @@
 
 ![Graph](https://github.com/MoisesTapia/Web-Dbserver/blob/master/images/WebServer.png)
 
-
-## Graph model
-
-![Map](https://github.com/MoisesTapia/Infra-Basic/blob/master/images/Untitled%20Diagram(1).png)
-
-
 # Verify the infra with inspec
 
 [Look the documentation](https://github.com/MoisesTapia/Infra-Basic/tree/master/infrabasic)
