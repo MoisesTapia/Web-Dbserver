@@ -17,7 +17,7 @@
 
 ## Graph
 
-![Graph](https://github.com/MoisesTapia/Infra-Basic/blob/master/map.png)
+![Graph](https://github.com/MoisesTapia/Web-Dbserver/blob/master/images/WebServer.png)
 
 
 ## Graph model
