@@ -15,7 +15,7 @@
 
 ## Graph
 
-![Graph](https://github.com/MoisesTapia/Web-Dbserver/blob/master/images/WebServer.png)
+![Graph](https://github.com/MoisesTapia/Web-Dbserver/blob/developer/images/WebServermap.png)
 
 # Verify the infra with inspec
 
