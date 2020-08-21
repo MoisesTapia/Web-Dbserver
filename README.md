@@ -8,22 +8,14 @@
 ![License](https://img.shields.io/github/license/MoisesTapia/Web-Dbserver?style=plastic)
 ![fork](https://img.shields.io/github/forks/MoisesTapia/Web-Dbserver?color=se&style=plastic)<br>
 
-## This infra contain the follow features
-
-- [x] A Default - VPC
-- [x] A Default - Subnte
-- [x] A default - Zone
-- [x] Inside containe a instance type t2.micro and within are running nginx
-
-## Graph
-
-![Graph](https://github.com/MoisesTapia/Infra-Basic/blob/master/map.png)
-
-
 ## Graph model
 
 ![Map](https://github.com/MoisesTapia/Infra-Basic/blob/master/images/Untitled%20Diagram(1).png)
 
+
+## Graph
+
+![Graph](https://github.com/MoisesTapia/Web-Dbserver/blob/master/images/WebServer.png)
 
 # Verify the infra with inspec
 
