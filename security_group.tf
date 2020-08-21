@@ -1,5 +1,5 @@
 resource "aws_security_group" "web_traffic" {
-    name    = "Allow Web Traffic"
+    name    = "Allow Web Traffic via HTTPS"
 
     dynamic "ingress" {
         iterator        = port
