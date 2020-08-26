@@ -1,5 +1,5 @@
 resource "aws_security_group" "web_traffic" {
-    name    = "Allow Web Traffic via HTTPS"
+    name    = "Traffic via HTTPS"
 
     dynamic "ingress" {
         iterator        = port
@@ -21,5 +21,8 @@ resource "aws_security_group" "web_traffic" {
             protocol    = var.protocol_net
             cidr_blocks = ["0.0.0.0/0"]
         }
+    }
+    tags = {
+        Name = "Security_Trafic"
     }
 }
