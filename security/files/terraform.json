@@ -2,12 +2,12 @@
   "Private_ip": {
     "sensitive": false,
     "type": "string",
-    "value": "172.31.14.82"
+    "value": "172.31.example"
   },
   "Public_ip": {
     "sensitive": false,
     "type": "string",
-    "value": "54.177.101.240"
+    "value": "54.177.example"
   },
   "av_zone_db": {
     "sensitive": false,
@@ -22,26 +22,26 @@
   "aws_DB": {
     "sensitive": false,
     "type": "string",
-    "value": "i-001964eea8efbfb99"
+    "value": "i-example"
   },
   "aws_Web": {
     "sensitive": false,
     "type": "string",
-    "value": "i-0900a58f114963459"
+    "value": "i-example"
   },
   "ec2_db_ami": {
     "sensitive": false,
     "type": "string",
-    "value": "ami-066df92ac6f03efca"
+    "value": "ami-exmaple"
   },
   "ec2_web_ami": {
     "sensitive": false,
     "type": "string",
-    "value": "ami-066df92ac6f03efca"
+    "value": "ami-exmaple"
   },
   "security_group_id": {
     "sensitive": false,
     "type": "string",
-    "value": "sg-0d3fcd7ad0df57ed7"
+    "value": "sg-example"
   }
 }
