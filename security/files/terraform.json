@@ -1,0 +1,47 @@
+{
+  "Private_ip": {
+    "sensitive": false,
+    "type": "string",
+    "value": "172.31.14.82"
+  },
+  "Public_ip": {
+    "sensitive": false,
+    "type": "string",
+    "value": "54.177.101.240"
+  },
+  "av_zone_db": {
+    "sensitive": false,
+    "type": "string",
+    "value": "us-west-1c"
+  },
+  "av_zone_web": {
+    "sensitive": false,
+    "type": "string",
+    "value": "us-west-1a"
+  },
+  "aws_DB": {
+    "sensitive": false,
+    "type": "string",
+    "value": "i-001964eea8efbfb99"
+  },
+  "aws_Web": {
+    "sensitive": false,
+    "type": "string",
+    "value": "i-0900a58f114963459"
+  },
+  "ec2_db_ami": {
+    "sensitive": false,
+    "type": "string",
+    "value": "ami-066df92ac6f03efca"
+  },
+  "ec2_web_ami": {
+    "sensitive": false,
+    "type": "string",
+    "value": "ami-066df92ac6f03efca"
+  },
+  "security_group_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "sg-0d3fcd7ad0df57ed7"
+  }
+}

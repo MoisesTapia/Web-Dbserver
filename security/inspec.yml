@@ -1,0 +1,20 @@
+name: security
+title: AWS InSpec Profile
+maintainer: Moises Tapia
+copyright: Moises Tapia
+copyright_email: moisestapia741@gmail.com
+license: Apache-2.0
+summary: An InSpec Compliance Profile For AWS
+version: 0.1.0
+inspec_version: '~> 4'
+attributes:
+- name: ami_id
+  required: false
+  value: 'ami-066df92ac6f03efca'
+  description: 'AMI of EC2 instances'
+  type: string
+depends:
+  - name: inspec-aws
+    url: https://github.com/inspec/inspec-aws/archive/master.tar.gz
+supports:
+  - platform: aws
