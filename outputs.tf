@@ -33,6 +33,6 @@ output "av_zone_db" {
     value = aws_instance.db.availability_zone
 }
 
-#output "vpc_name_id" {
-#    value = aws_vpc.web.id
-#}
+output "vpc_name_id" {
+    value = data.aws_vpc.default_vpc.id
+}
